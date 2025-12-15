@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights and checkpoints (too large for GitHub)
+twgi-critique-anole-7b/
+*.ckpt
+*.pth
+*.bin
+*.safetensors
+
+# Large data files
+outputs/
+results/*/generated_images/
+*.h5
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

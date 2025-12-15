@@ -1,0 +1,3 @@
+{"prompt": "Tell me about cats."}
+{"prompt": "Tell me about this picture.<image>", "images": ["example1.jpg"]}
+{"prompt": "Use pictures and words to explain each step to cook eggs."}
